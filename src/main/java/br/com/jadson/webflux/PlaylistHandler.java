@@ -10,7 +10,7 @@ import br.com.jadson.webflux.document.Playlist;
 import br.com.jadson.webflux.services.PlaylistService;
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class PlaylistHandler {
 	
 	@Autowired
